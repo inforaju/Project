@@ -188,7 +188,7 @@ public class MainJFrame extends javax.swing.JFrame {
         
     }
 
-    // Variables declaration - do not modify//GEN-BEGIN:variables
+    // Variables declaration - do not modify//GEN-BEGIN:variables 
     private javax.swing.JButton CVSAdminJButton;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JSplitPane jSplitPane1;
