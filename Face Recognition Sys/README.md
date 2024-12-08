@@ -76,7 +76,8 @@ python attendance_system.py
 
 - **Attendance Records**  
   Organized table showing attendance logs with timestamps.
-  
+  ![ss](https://github.com/user-attachments/assets/da7773ef-2987-4b66-bd2b-efe4aa751aa5)
+
 
 ---
 
