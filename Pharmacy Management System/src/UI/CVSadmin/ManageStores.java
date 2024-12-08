@@ -181,5 +181,5 @@ public class ManageStores extends javax.swing.JPanel {
     private javax.swing.JLabel jLabel1;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JTable storeTable;
-    // End of variables declaration//GEN-END:variables
+    // End of variables declaration//GEN-END:variables main
 }
