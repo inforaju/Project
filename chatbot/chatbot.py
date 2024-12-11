@@ -22,3 +22,4 @@ send = Button(root,text='Send',bg='deeppink', fg='white', width=20,command=send)
 e.grid(row=1,column=0)
 root.title('CHATBOT')
 root.mainloop()
+
